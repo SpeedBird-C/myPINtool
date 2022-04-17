@@ -1,0 +1,2 @@
+C:\Users\Seven\Documents\pin\pin\source\tools\MyPinTool\Release\MyPinTool.dll
+C:\Users\Seven\Documents\pin\pin\source\tools\MyPinToolsaveIt\Release\MyPinTool.dll
